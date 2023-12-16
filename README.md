@@ -1,3 +1,9 @@
+## Sample UI
+Navbar- ![image](https://github.com/ankityadav09/Inventory-Management/assets/66019237/28a31690-b761-4b2e-b98a-d7a9f1f76298)
+Login Form- ![image](https://github.com/ankityadav09/Inventory-Management/assets/66019237/b1146217-28c7-46a9-8963-5cce531b7988)
+Registration Form - ![image](https://github.com/ankityadav09/Inventory-Management/assets/66019237/25c63258-9b05-41a7-9e43-2b09674467c7)
+App Interface - ![image](https://github.com/ankityadav09/Inventory-Management/assets/66019237/7b6239e6-f589-4bb2-a62b-15dc57fccc6f)
+
 Creating documentation for your web app using React.js, Spring Boot, Hibernate, MySQL, and Git involves explaining various aspects of the project, including its structure, setup, technologies used, and how to contribute. Here's a basic outline to help you get started:
 
 # Inventory Management Web App Documentation
@@ -144,3 +150,6 @@ Report issues and bugs on the [GitHub Issues](https://github.com/ankityadav09/In
 This project is licensed under the [MIT License](LICENSE).
 
 Feel free to adapt and expand this documentation based on your project's specific needs and conventions.
+
+
+
