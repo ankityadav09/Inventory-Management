@@ -55,7 +55,7 @@ Welcome to the Inventory Management Web App documentation. This web application 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/ankityadav09/Inventory-Management.git
    ```
 
 2. Navigate to the frontend directory:
@@ -72,7 +72,9 @@ Welcome to the Inventory Management Web App documentation. This web application 
 
 1. Clone the repository (if not done already):
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/ankityadav09/Inventory-Management.git
+
+   Get Backend folder from cloned project.
    ```
 
 2. Navigate to the backend directory:
@@ -135,7 +137,7 @@ Adhere to the coding standards defined in the project to maintain code consisten
 
 ## Issues and Bugs
 
-Report issues and bugs on the [GitHub Issues](https://github.com/your-username/your-repository/issues) page.
+Report issues and bugs on the [GitHub Issues](https://github.com/ankityadav09/Inventory-Management/issues) page.
 
 ## License
 
